@@ -8,7 +8,7 @@ It will be responsible for handling user input and siplaying the current GameSta
 Loading dependencies
 '''
 import pygame as p
-from chess import ChessEngine
+from Chess import ChessEngine
 
 #--------------------------------------------------
 '''
